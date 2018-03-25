@@ -1,0 +1,23 @@
+{
+  "name": "nkarner",
+  "version": "1.0.0",
+  "description": "nkarner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmenGevorgyan1964/nkarner.git"
+  },
+  "author": "Armen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmenGevorgyan1964/nkarner/issues"
+  },
+  "homepage": "https://github.com/ArmenGevorgyan1964/nkarner#readme",
+  "dependencies": {
+    "@types/node": "^9.6.0",
+    "typescript": "^2.7.2"
+  }
+}
